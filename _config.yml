@@ -1,4 +1,5 @@
-baseurl: "https://www.graspiva.com/"
+baseurl: "/"
+homeurl: "https://www.graspiva.com/"
 permalink: pretty
 title: 'Graspiva WebSite'
 
